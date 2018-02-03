@@ -1,0 +1,103 @@
+{
+    "ace": {
+        "@guessTabSize": true,
+        "@newLineMode": "unix",
+        "@tabSize": 4,
+        "@useSoftTabs": true
+    },
+    "build": {
+        "@builder": "auto",
+        "@path": "/.c9/builders",
+        "@saveall": "true"
+    },
+    "cs50": {
+        "debug": {
+            "@ver": 10
+        },
+        "info": {
+            "@info_revision": 3,
+            "@latestVersion": 114,
+            "@public": false,
+            "@update_revision": 3
+        },
+        "simple": {
+            "@browser": 1,
+            "@scm-enabled": true,
+            "@ver": 12
+        },
+        "statuspage": {
+            "@incidents": {}
+        }
+    },
+    "find.nak": {
+        "@searchLimit": 100
+    },
+    "format": {
+        "jsbeautify": {
+            "@advanced": {},
+            "@braces": "end-expand",
+            "@indent_inner_html": false,
+            "@jslinthappy": "false",
+            "@keeparrayindentation": "false",
+            "@preserve-inline": true,
+            "@preserveempty": "true",
+            "@space_before_conditional": "true",
+            "@unescape_strings": "true"
+        }
+    },
+    "general": {
+        "@stripws": true
+    },
+    "golang": {
+        "@completion": true,
+        "@formatOnSave": true,
+        "@formatter": "gofmt -w \"$file\""
+    },
+    "javascript": {
+        "@formatOnSave": "false",
+        "@formatter": "esformatter -i \"$file\"",
+        "@use_jsbeautify": "true"
+    },
+    "language": {
+        "@eslintrc": true,
+        "@semi": true,
+        "@undeclaredVars": true,
+        "@unusedFunctionArgs": false,
+        "@warnLevel": "info",
+        "tern_defs": {
+            "json()": {
+                "browser": {
+                    "enabled": true
+                },
+                "ecma5": {
+                    "enabled": true
+                },
+                "jQuery": {
+                    "enabled": true
+                }
+            }
+        }
+    },
+    "php": {
+        "@completion": true,
+        "@path": ".:./vendor"
+    },
+    "python": {
+        "@completion": true,
+        "@path": "/home/ubuntu/.cs50/py_modules:/opt/pyenv/versions/3.6.0/lib/python3.6/site-packages",
+        "@pylintFlags": "-d all -e E -e F --generated-members=app.jinja_env.* --ignored-classes=SQL,SQLAlchemy --load-plugins pylint50",
+        "@version": "python3"
+    },
+    "run": {
+        "@path": "/.c9/runners",
+        "configs": {
+            "@inited": "true",
+            "json()": {}
+        }
+    },
+    "share": {
+        "@app": false,
+        "@preview": false,
+        "@useOwnerSettings": false
+    }
+}
