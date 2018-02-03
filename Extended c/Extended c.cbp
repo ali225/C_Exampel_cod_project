@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Extended c" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Extended c" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="average.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="average.h" />
+		<Unit filename="getaline.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getaline.h" />
+		<Unit filename="isdigits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isdigits.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="myatoi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="myatoi.h" />
+		<Unit filename="mystrcmp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mystrcmp.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

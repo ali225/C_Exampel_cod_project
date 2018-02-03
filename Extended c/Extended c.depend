@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1508930696 source:c:\users\eng\desktop\c project\extended c\main.c
+	<stdio.h>
+	"getaline.h"
+	"mystrcmp.h"
+	"isdigits.h"
+	"myatoi.h"
+	"average.h"
+
+1508919919 source:c:\users\eng\desktop\c project\extended c\getaline.c
+	<stdio.h>
+	"getaline.h"
+
+1508919667 c:\users\eng\desktop\c project\extended c\getaline.h
+
+1508922833 source:c:\users\eng\desktop\c project\extended c\isdigits.c
+	<stdio.h>
+	"isdigits.h"
+
+1508922833 c:\users\eng\desktop\c project\extended c\isdigits.h
+
+1508921943 c:\users\eng\desktop\c project\extended c\mystrcmp.h
+
+1508927352 c:\users\eng\desktop\c project\extended c\myatoi.h
+
+1508926841 source:c:\users\eng\desktop\c project\extended c\myatoi.c
+	"myatoi.h"
+
+1508921943 source:c:\users\eng\desktop\c project\extended c\mystrcmp.c
+	<stdio.h>
+	"mystrcmp.h"
+
+1508930037 source:c:\users\eng\desktop\c project\extended c\average.c
+	"average.h"
+
+1508930037 c:\users\eng\desktop\c project\extended c\average.h
+

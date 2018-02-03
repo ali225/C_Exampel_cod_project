@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509879008 source:c:\users\eng\desktop\c project\arraysort\main.c
+	<stdio.h>
+	<stdlib.h>
+
